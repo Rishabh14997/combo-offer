@@ -1,0 +1,6 @@
+{% extends "homepage/header.html" %}
+{% block content %}
+    {% for code in object_list %}
+            <h5>{{ code.date|date:"Y-m-d" }}<a href="/coderun/model1"> {{ code.title }}</a> </h5>
+    {% endfor %}
+{% endblock %}

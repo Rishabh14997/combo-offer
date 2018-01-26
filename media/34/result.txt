@@ -1,0 +1,8 @@
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
+['p10', 'p4', 'p7'] with price    500
